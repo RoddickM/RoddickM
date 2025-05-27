@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoddickM
 - 👀 I’m interested in games, bouldering and warhammer 40k
 - 🌱 I’m currently doing a full-stack engineering couse at CodeCademy
-- 💞️ I’m looking to collaborate on beginner friendly python projects that can help me grow my programming knowledge
+- 💞️ I’m looking to start creating a full web-application after finishing my course that contains both front and back-end components
 - 📫 How to reach me - Instagram: @spotman_roddick, github: @RoddickM, email: roddicktsaqib@gmail.com
 
 ## Github Information
